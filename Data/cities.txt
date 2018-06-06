@@ -1,0 +1,549 @@
+Bab Ezzouar	 Algeria
+Babol	 Iran
+Babruysk	 Belarus
+Bacau	 Romania
+Bacolod	 Philippines
+Bacoor	 Philippines
+Badajoz	 Spain
+Badalona	 Spain
+Bafoussam	 Cameroon
+Bage	 Brazil
+Baghdad	 Iraq
+Bago City	 Philippines
+Bago	 Myanmar
+Baguio	 Philippines
+Baharampur	 India
+Bahawalnagar	 Pakistan
+Bahawalpur	 Pakistan
+Bahia Blanca	 Argentina
+Bahir Dar	 Ethiopia
+Bahraich	 India
+Baia Mare	 Romania
+Baicheng	 China
+Baidoa	 Somalia
+Baise	 China
+Baishan	 China
+Baiyin	 China
+Bakersfield	 United States
+Baku	 Azerbaijan
+Balakovo	 Russia
+Balashikha	 Russia
+Baleshwar	 India
+Balıkesir	 Turkey
+Balikpapan	 Indonesia
+Baliuag	 Philippines
+ballarat	Australia
+Bally	 India
+Balti	 Moldova
+Baltimore	 United States
+Balurghat	 India
+Bamako	 Mali
+Bamenda	 Cameroon
+Banda Aceh	 Indonesia
+Bandar Abbas	 Iran
+Bandırma	 Turkey
+Bandung	 Indonesia
+Bangalore	 India
+Bangkok	 Thailand
+Bangui	 Central African Republic
+Banha	 Egypt
+Bani Suwayf	 Egypt
+Banja Luka	 Bosnia and Herzegovina
+Banjarmasin	 Indonesia
+Banjul	 Gambia
+Bankura	 India
+Baoding	 China
+Baoji	 China
+Baoshan	 China
+Baotou	 China
+Barakaldo	 Spain
+Baraki	 Algeria
+Baranagar	 India
+Baranovichi	 Belarus
+Barbacena	 Brazil
+Barcelona	 Venezuela
+Barcelona	 Spain
+Bardhaman	 India
+Bareilly	 India
+Bari	 Italy
+Barika	 Algeria
+Barinas	 Venezuela
+Barisal	 Bangladesh
+Barnaul	 Russia
+Barquisimeto	 Venezuela
+Barra Mansa	 Brazil
+Barrackpur	 India
+Barrancabermeja	 Colombia
+Barranquilla	 Colombia
+Barreiras	 Brazil
+Barretos	 Brazil
+Barrie	 Canada
+Barueri	 Brazil
+Baruta	 Venezuela
+Barysaw	 Belarus
+Basel	  Switzerland
+Basirhat	 India
+Basra	 Iraq
+Bat Yam	 Israel
+Batala	 India
+Batam	 Indonesia
+Batangas City	 Philippines
+Bataysk	 Russia
+Bath	 United Kingdom
+Bathinda	 India
+Batman	 Turkey
+Batna	 Algeria
+Baton Rouge	 United States
+Battambang	 Cambodia
+Batu	 Indonesia
+Batumi	 Georgia
+Batu Pahat	 Malaysia
+Bauru	 Brazil
+Bayambang	 Philippines
+Bayamo	 Cuba
+Bayamón	 Puerto Rico
+Bayannur	 China
+Bayawan	 Philippines
+Baybay	 Philippines
+Bazhou	 China
+Beau-Bassin	 Mauritius
+Beaumont	 United States
+Beauvais	 France
+Beawar	 India
+Bechar	 Algeria
+Beed	 India
+Beersheba	 Israel
+Bei'an	 China
+Beihai	 China
+Beijing	 China
+Beipiao	 China
+Beirut	 Lebanon
+Bejaia	 Algeria
+Bekasi	 Indonesia
+Belem	 Brazil
+Belfast	 United Kingdom
+Belford Roxo	 Brazil
+Belgaum	 India
+Belgorod	 Russia
+Belgrade	 Serbia
+Bellary	 India
+Bellevue	 United States
+Bello	 Colombia
+Belo Horizonte	 Brazil
+Bengbu	 China
+Benghazi	 Libya
+Benguela	 Angola
+Beni Mellal	 Morocco
+Benito Juárez	 Mexico
+Benoni	 South Africa
+Benxi	 China
+Beppu	 Japan
+Berbera	 Somalia
+Berdyansk	 Ukraine
+Berezniki	 Russia
+Bergamo	 Italy
+Bergen	 Norway
+Bergisch Gladbach	 Germany
+Berhampur	 India
+Berkeley	 United States
+Berlin	 Germany
+Bern	  Switzerland
+Besançon	 France
+Betim	 Brazil
+Bettiah	 India
+Bhadravati	 India
+Bhagalpur	 India
+Bhalwal	 Pakistan
+Bharatpur	 India
+Bharatpur	   Nepal
+Bharuch	 India
+Bhatpara	 India
+Bhavnagar	 India
+Bhilai	 India
+Bhilwara	 India
+Bhimavaram	 India
+Bhind	 India
+Bhiwandi	 India
+Bhiwani	 India
+Bhopal	 India
+Bhubaneswar	 India
+Bhuj	 India
+Bhusawal	 India
+Bialystok	 Poland
+Bidar	 India
+Bielefeld	 Germany
+Bielsko-Biala	 Poland
+Bihar Sharif	 India
+Bijapur	 India
+Bikaner	 India
+Bila Tserkva	 Ukraine
+Bilaspur	 India
+Bilbao	 Spain
+Billings	 United States
+Biñan	 Philippines
+Binangonan	 Philippines
+Binzhou	 China
+Biratnagar	   Nepal
+Birjand	 Iran
+Birmingham	 United Kingdom
+Birmingham	 United States
+Bishkek	 Kyrgyzstan
+Bislig	 Philippines
+Biskra	 Algeria
+Bissau	 Guinea-Bissau
+Biysk	 Russia
+Bizerte	 Tunisia
+Blackburn	 United Kingdom
+Blackpool	 United Kingdom
+Blagoveshchensk	 Russia
+Blantyre	 Malawi
+Blida	 Algeria
+Bloemfontein	 South Africa
+Blumenau	 Brazil
+Bnei Brak	 Israel
+Boa Vista	 Brazil
+Bobo-Dioulasso	 Burkina Faso
+Bocaue	 Philippines
+Bochum	 Germany
+Bogor	 Indonesia
+Bogota	 Colombia
+Bogra	 Bangladesh
+Boise	 United States
+Bojnord	 Iran
+Bokaro Steel City	 India
+Boksburg	 South Africa
+Bole	 China
+Bologna	 Italy
+Bolton	 United Kingdom
+Bolzano	 Italy
+Boma	 Democratic Republic of the Congo
+Bonn	 Germany
+Bordeaux	 France
+Bordj Bou Arréridj	 Algeria
+Bordj El Kiffan	 Algeria
+Borujerd	 Iran
+Bosaso	 Somalia
+Boston	 United States
+Botoșani	 Romania
+Botou	 China
+Botshabelo	 South Africa
+Bottrop	 Germany
+Botucatu	 Brazil
+Bou Saada	 Algeria
+Bouake	 Ivory Coast
+Boulder	 United States
+Boulogne-Billancourt	 France
+Bourg-en-Bresse	 France
+Bournemouth	 United Kingdom
+Bozhou	 China
+Bradford	 United Kingdom
+Braga	 Portugal
+Bragança Paulista	 Brazil
+Braila	 Romania
+Brampton	 Canada
+Brasilia	 Brazil
+Brasov	 Romania
+Bratislava	 Slovakia
+Bratsk	 Russia
+Braunschweig	 Germany
+Brazzaville	 Republic of the Congo
+Breda	 Netherlands
+Bremen	 Germany
+Bremerhaven	 Germany
+Brescia	 Italy
+Brest	 Belarus
+Brest	 France
+Bridgeport	 United States
+Brighton	 United Kingdom
+Brisbane	 Australia
+Bristol	 United Kingdom
+Brno	 Czech Republic
+Brownsville	 United States
+Bruges	 Belgium
+Brussels	 Belgium
+Bryansk	 Russia
+Bucaramanga	 Colombia
+Bucharest	 Romania
+Bucheon	 South Korea
+Budapest	 Hungary
+Budaun	 India
+Buenaventura	 Colombia
+Buenos Aires	 Argentina
+Buffalo	 United States
+Buga	 Colombia
+Bujumbura	 Burundi
+Bukan	 Iran
+Bukavu	 Democratic Republic of the Congo
+Bukhara	 Uzbekistan
+Bulandshahr	 India
+Bulawayo	 Zimbabwe
+Buon Ma Thuột	 Vietnam
+Burao	 Somalia
+Burbank	 United States
+Burewala	 Pakistan
+Burgas	 Bulgaria
+Burgos	 Spain
+Burhanpur	 India
+Burlington	 Canada
+Burnaby	 Canada
+Bursa	 Turkey
+Bury	 United Kingdom
+Busan	 South Korea
+Bushehr	 Iran
+Butuan	 Philippines
+Buzau	 Romania
+Bydgoszcz	 Poland
+Bytom	 Poland
+Butwal	   Nepal
+Paarl	 South Africa
+Pabna	 Bangladesh
+Pachuca	 Mexico
+Padang	 Indonesia
+Paderborn	 Germany
+Padua	 Italy
+Pagadian City	 Philippines
+Pago Pago, American Samoa	 United States
+Paita	 Peru
+Pakalongan	 Indonesia
+Pakan Baru	 Indonesia
+Pakpattan	 Pakistan
+Palakkad	 India
+Palangkaraya	 Indonesia
+Palembang	 Indonesia
+Palermo	 Italy
+Pali	 India
+Palma de Mallorca	 Spain
+Palmas	 Brazil
+Palmdale, California	 United States
+Palmira	 Colombia
+Palu	 Indonesia
+Pamplona	 Spain
+Panabo City	 Philippines
+Panama City	 Panama
+Pančevo	 Serbia
+Panevėžys	 Lithuania
+Panihati	 India
+Panipat	 India
+Panjin	 China
+Panzhihua	 China
+Papeete	 France
+Paradise, Nevada	 United States
+Parakou	 Benin
+Paramaribo	 Suriname
+Paraná	 Argentina
+Paranaguá	 Brazil
+Parang, Maguindanao	 Philippines
+Parbhani	 India
+Pardubice	 Czech Republic
+Paris	 France
+Parla	 Spain
+Pasadena, California	 United States
+Patos de Minas	 Brazil
+Patna	 India
+Patras	 Greece
+Patratu	 India
+Paulista	 Brazil
+Pavlodar	 Kazakhstan
+Pavlohrad	 Ukraine
+Pécs	 Hungary
+Pelotas	 Brazil
+Pematang Siantar	 Indonesia
+Pembroke Pines, Florida	 United States
+Penza	 Russia
+Peoria, Arizona	 United States
+Peoria, Illinois	 United States
+Pereira	 Colombia
+Peristeri	 Greece
+Perm	 Russia
+Perpignan	 France
+Perth	 Australia
+Perugia	 Italy
+Pervouralsk	 Russia
+Pescara	 Italy
+Peshawar	 Pakistan
+Petah Tikva	 Israel
+Petaling Jaya	 Malaysia
+Petare	 Venezuela
+Peterborough	 United Kingdom
+Petrolina	 Brazil
+Petropavl	 Kazakhstan
+Petropavlovsk-Kamchatsky	 Russia
+Petrópolis	 Brazil
+Petrozavodsk	 Russia
+Pforzheim	 Germany
+Philadelphia, Pennsylvania	 United States
+Phuket	 Thailand
+Phnom Penh	 Cambodia
+Phoenix, Arizona	 United States
+Phusro	 India
+Phyongsong	 North Korea
+Piatra Neamţ	 Romania
+Pietermaritzburg	 South Africa
+Pikine	 Senegal
+Pilibhit	 India
+Pinar del Río	 Cuba
+Pindamonhangaba	 Brazil
+Pingdingshan	 China
+Pingdu	 China
+Pingliang	 China
+Pingxiang	 China
+Pinhais	 Brazil
+Pinsk	 Belarus
+Piracicaba	 Brazil
+Piraeus	 Greece
+Pir Mahal	 Pakistan
+Piteşti	 Romania
+Pittsburgh, Pennsylvania	 United States
+Piura	 Peru
+Plano, Texas	 United States
+Pleven	 Bulgaria
+Płock	 Poland
+Ploieşti	 Romania
+Plovdiv	 Bulgaria
+Plymouth	 United Kingdom
+Plzeň	 Czech Republic
+Poços de Caldas	 Brazil
+Podgorica	 Montenegro
+Podolsk	 Russia
+Pohang	 South Korea
+Pointe-Noire	 Republic of the Congo
+Pollachi	 India
+Polomolok, South Cotabato	 Philippines
+Poltava	 Ukraine
+Pomona, California	 United States
+Ponce	 United States
+Pondicherry	 India
+Ponta Grossa	 Brazil
+Pontianak	 Indonesia
+Poole	 United Kingdom
+Popayán	 Colombia
+Porac, Pampanga	 Philippines
+Porbandar	 India
+Port Elizabeth	 South Africa
+Port Harcourt	 Nigeria
+Port Louis	 Mauritius
+Port Moresby	 Papua New Guinea
+Port Said	 Egypt
+Port Sudan	 Sudan
+Port-au-Prince	 Haiti
+Portland, Oregon	 United States
+Porto Alegre	 Brazil
+Porto Novo	 Benin
+Porto Velho	 Brazil
+Porto	 Portugal
+Portoviejo	 Ecuador
+Portsmouth	 United Kingdom
+Posadas	 Argentina
+Potosí	 Bolivia
+Potsdam	 Germany
+Pouso Alegre	 Brazil
+Poza Rica de Hidalgo	 Mexico
+Poznań	 Poland
+Prague	 Czech Republic
+Praia Grande	 Brazil
+Praia	 Cape Verde
+Prato	 Italy
+Presidente Prudente	 Brazil
+Preston	 United Kingdom
+Pretoria	 South Africa
+Prijedor	 Bosnia and Herzegovina
+Pristina	 Kosovo
+Probolinggo	 Indonesia
+Proddatur	 India
+Prokopyevsk	 Russia
+Providence, Rhode Island	 United States
+Provo, Utah	 United States
+Pskov	 Russia
+Pucallpa	 Peru
+Puebla de Zaragoza	 Mexico
+Pueblo, Colorado	 United States
+Puente Alto	 Chile
+Puerto Cabello	 Venezuela
+Puerto Montt	 Chile
+Puerto Princesa City	 Philippines
+Puli Khumri	 Afghanistan
+Pune	 India
+Puno	 Peru
+Punta Arenas	 Chile
+Punto Fijo	 Venezuela
+Puri	 India
+Purnia	 India
+Putian	 China
+Puyang	 China
+Pyatigorsk	 Russia
+Pyongyang	 North Korea
+Vadodara	 India
+Valdivia	 Chile
+Valencia	 Spain
+Valencia	 Philippines
+Valencia	 Venezuela
+Valenciennes	 France
+Valera	 Venezuela
+Valladolid	 Spain
+Valle de Chalco	 Mexico
+Valledupar	 Colombia
+Vallejo	 United States
+Valparai	 India
+Valparaíso	 Chile
+Valsad	 India
+Van	 Turkey
+Vanadzor	 Armenia
+Vancouver	 United States
+Vancouver	 Canada
+Vantaa	 Finland
+Varamin	 Iran
+Varanasi	 India
+Varginha	 Brazil
+Varna	 Bulgaria
+Várzea Grande	 Brazil
+Västerås	 Sweden
+Vatakara	 India
+Vaughan	 Canada
+Velikiye Luki	 Russia
+Veliky Novgorod	 Russia
+Vellore	 India
+Venice	 Italy
+Veracruz	 Mexico
+Vereeniging	 South Africa
+Verona	 Italy
+Viamao	 Brazil
+Vicente Lopez	 Argentina
+Vicenza	 Italy
+Victoria de Las Tunas	 Cuba
+Victoria	 Canada
+Vienna	 Austria
+Vientiane	 Laos
+Vigo	 Spain
+Vijayawada	 India
+Vila Nova de Gaia	 Portugal
+Vila Velha	 Brazil
+Villa Nicolas Romero	 Mexico
+Villahermosa	 Mexico
+Villavicencio	 Colombia
+Villeurbanne	 France
+Vilnius	 Lithuania
+Vina del Mar	 Chile
+Vinh	 Vietnam
+Vinnytsia	 Ukraine
+Viranşehir	 Turkey
+Visakhapatnam	 India
+Vitebsk	 Belarus
+Vitoria da Conquista	 Brazil
+Vitoria de Santo Antão	 Brazil
+Vitoria	 Brazil
+Vitoria-Gasteiz	 Spain
+Vizianagaram	 India
+Vladikavkaz	 Russia
+Vladimir	 Russia
+Vladivostok	 Russia
+Vlore	 Albania
+Volgodonsk	 Russia
+Volgograd	 Russia
+Vologda	 Russia
+Volos	 Greece
+Volta Redonda	 Brazil
+Volzhsky	 Russia
+Voronezh	 Russia
+Vosloorus	 South Africa
+Votkinsk	 Russia
+Vung Tau	 Vietnam
