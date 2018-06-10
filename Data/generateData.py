@@ -1,22 +1,24 @@
 import csv
+import numpy as np
+import pandas as pd
+import random
 
 cities = [];
 userNames = [];
+gender = ['male', 'female'];
+age = range(18, 60);
+
+# this is main array area
+Users = [];
+# end of array
 
 # cities extraction
 with open('cities.txt') as f:
     lines = f.readlines();
 
 for city in lines:
-    if (city.find('1') == -1 and city.find('2') == -1
-        and city.find('3') == -1 and city.find('4') == -1
-        and city.find('5') == -1 and city.find('6') == -1
-        and city.find('7') == -1 and city.find('8') == -1
-        and city.find('9') == -1 and city.find('0') == -1):
-      cities.append( (city.split('\t'))[0] );
-
+    cities.append( ((city.split('\t'))[0]) );
 # end of cities
-
 
 # user name extraction
 file = open('petfinder_shelters.csv');
@@ -33,8 +35,21 @@ for row in reader:
 
 if 'email' in userNames:
     userNames.remove('email');
-
 # end of user names
 
 print len(cities);
+# for city in cities:
+#     print city;
 print len(userNames);
+
+for user in userNames:
+    tempUserArray = [];
+    tempUserArray.append(user);
+    tempUserArray.append(random.choice(gender));
+    tempUserArray.append(random.choice(age));
+    tempUserArray.append(random.choice(cities));
+    Users.append(pd.Series(tempUserArray, ['user_name', 'gender', 'age', 'city']));
+
+UsersDF = pd.DataFrame(Users);
+
+UsersDF.to_csv('./GeneratedData/Users.csv');
